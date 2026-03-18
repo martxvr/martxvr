@@ -19,5 +19,6 @@ I build **AI automations & websites** for local businesses — and run my own ag
 ---
 
 ## 📬 Reach me
-**Email:** martijn@forthscaling.com  
+**Email:** info@forthscaling.com  
 **LinkedIn:** [linkedin.com/in/martijnvervoort](https://www.linkedin.com/in/martijn-vervoort-9a89651ba/)
+**Website** https://www.forthscaling.com
