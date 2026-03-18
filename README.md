@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Martijn Vervoort 👋
 
-<!--
-**martxvr/martxvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **AI automations & websites** for local businesses — and run my own agency doing exactly that.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Currently working on
+- **ForthScaling** — my agency building AI-powered websites for tradespeople (flooring, roofing, etc.)
+- **n8n lead pipelines** — Google Maps → CRM → WhatsApp/SMS outreach → Calendly booking
+- **AI chatbots** — appointment booking + Q&A bots with LLM backends (Gemini, Claude)
+- **Next.js client sites** — SEO-first builds with Tailwind & Framer Motion
+
+---
+
+## 🛠 Tools & stack
+`n8n` `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase`  
+`OpenAI / Claude / Gemini APIs` `Twilio` `Vercel` `Node.js`
+
+---
+
+## 📬 Reach me
+**Email:** martijn@forthscaling.com  
+**LinkedIn:** [linkedin.com/in/martijnvervoort](https://www.linkedin.com/in/martijn-vervoort-9a89651ba/)
